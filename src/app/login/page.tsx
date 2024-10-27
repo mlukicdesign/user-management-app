@@ -1,11 +1,5 @@
 import { login, signup } from "./actions";
 
-// To Do: Set up following logic;
-// Retrieve the user's information.
-// Send that information to Supabase as a signup request, which in turns will send a confirmation email.
-// Handle any error that arises.
-
-
 export default function LoginPage() {
   return (
     <form>
