@@ -6,7 +6,6 @@ Supabase Database - a Postgres database for storing your user data and Row Level
 Supabase Auth - allow users to sign up and log in.
 Supabase Storage - users can upload a profile photo.
 
-W2L3CNHfGDoe1IKP
 
 You can easily pull the database schema down to your local project by running the db pull command. Read the local development docs for detailed instructions.
 
